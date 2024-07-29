@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: 'notreally';
+  src: url('./assets/notreally.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'somethingolde';
+  src: url('./assets/somethingolde.ttf') format('truetype');
+}
+
+
+body {
+  background-image: url(./assets/boardbg.svg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'notreally', sans-serif;
+}
+
+.somethingolde{
+  
+  font-family: 'somethingolde', sans-serif;
+}
