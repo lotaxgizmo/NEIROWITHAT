@@ -11,7 +11,7 @@ function Whyskool() {
 
             <div className="two flex flex-col lg:flex-row">
                 <div className="lg:w-1/2 image lg:mt-32">
-                    <img src={math} alt="" />
+                    {/* <img src={math} alt="" /> */}
                 </div>
 
                 <div className="lg:w-1/2 right px-10 text-white">

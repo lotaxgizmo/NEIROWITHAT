@@ -34,10 +34,10 @@ function Hero() {
                 </div>
 
                 <div className="lg:w-1/3 writings hidden lg:flex flex-col pl-10 z-10">
-                    <img src={hateschool} alt="" className='w-72 ' />
+                    {/* <img src={hateschool} alt="" className='w-72 ' />
                     <img src={learning} alt="" className='w-72 ' />
                     <img src={teachers} alt="" className='w-72 ' />
-                    <img src={reading} alt="" className='w-72 ' />
+                    <img src={reading} alt="" className='w-72 ' /> */}
 
                 </div>
 

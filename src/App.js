@@ -12,8 +12,8 @@ function App() {
     <div className="">
       <Hero />
       <Whyskool />
-      <Computer />
-      <Computermobile />
+      {/* <Computer />
+      <Computermobile /> */}
       <Tokenomics />
       <Tokenomicsmobile />
       <Socials />
