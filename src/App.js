@@ -9,7 +9,7 @@ import Socials from './components/Socials'
 
 function App() {
   return (
-    <div className="">
+    <div className="overflow-hidden">
       <Hero />
       <Whyskool />
       {/* <Computer />

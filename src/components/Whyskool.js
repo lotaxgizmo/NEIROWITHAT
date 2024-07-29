@@ -6,7 +6,7 @@ import buybtn2 from '../assets/buybtn2.svg'
 
 function Whyskool() {
     return (
-        <div className='WHYSKOOL flex flex-col items-center justify-center'>
+        <div className='WHYSKOOL flex flex-col items-center justify-center mt-10'>
             <img src={why} alt="" className='lg:mb-[-100px]' />
 
             <div className="two flex flex-col lg:flex-row">

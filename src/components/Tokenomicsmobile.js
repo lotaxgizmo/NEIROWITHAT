@@ -6,7 +6,7 @@ import buybtn from '../assets/buybtn3.svg'
 function Tokenomicsmobile() {
     return (
         <div>
-            <div className='TOKENOMICSMOBILE h-[168px] mb-20 flex lg:hidden flex-col items-center justify-center relative  text-[#D6C6B6]'>
+            <div className='mt-5 TOKENOMICSMOBILE h-[168px] mb-20 flex lg:hidden flex-col items-center justify-center relative  text-[#D6C6B6]'>
 
                 <img src={heroboard} alt="" className='lg:w-[1217px] absolute z-[-1] top-1' />
                 <div className="innerboard mt-14 flex flex-col justify-center items-center lg:w-[1217px]">
@@ -58,8 +58,8 @@ function Tokenomicsmobile() {
                 </div>
             </div>
 
-            <div className="w-full flex lg:hidden  items-center justify-center">
-                <img src={buybtn} alt="" />
+            <div className="w-full flex lg:hidden  items-center justify-center  ">
+                <img src={buybtn} alt="" className='mt-10' />
             </div>
         </div>
     )

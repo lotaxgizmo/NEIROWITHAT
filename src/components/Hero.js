@@ -13,7 +13,7 @@ import buybtn from '../assets/buybtn.svg'
 
 function Hero() {
     return (
-        <div className='HERO flex flex-col items-center relative mt-5'>
+        <div className='HERO flex flex-col items-center relative mt-16'>
             <img src={heroboard} alt="" className='w-[1217px] absolute z-[-1]' />
 
             <img src={skoolsucks} alt="" className='w-[321px] lg:w-[722px] z-10' />
