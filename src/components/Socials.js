@@ -1,6 +1,7 @@
 import React from 'react'
 import skooltg from '../assets/skooltg.svg'
 import skoolx from '../assets/skoolx.svg'
+import dexscreener from '../assets/dexscreener.svg'
 
 function Socials() {
     return (
@@ -11,9 +12,9 @@ function Socials() {
             </h3>
 
             <div className="icons flex flex-row items-center  -rotate-12 my-5">
-                <img src={skooltg} alt="" className='w-32 lg:w-52' />
                 <img src={skoolx} alt="" className='w-32 lg:w-52' />
                 <img src={skooltg} alt="" className='w-32 lg:w-52' />
+                <img src={dexscreener} alt="" className='w-32 lg:w-52' />
             </div>
 
         </div>
