@@ -12,9 +12,15 @@ function Socials() {
             </h3>
 
             <div className="icons flex flex-row items-center  -rotate-12 my-5">
-                <img src={skoolx} alt="" className='w-32 lg:w-52' />
-                <img src={skooltg} alt="" className='w-32 lg:w-52' />
-                <img src={dexscreener} alt="" className='w-32 lg:w-52' />
+                <a href="https://x.com/neirowifhat_sol/" target="_blank" rel="noopener noreferrer">
+                    <img src={skoolx} alt="" className='w-32 lg:w-52' />
+                </a>
+                <a href="https://t.me/neirowifhatcommunity" target="_blank" rel="noopener noreferrer">
+                    <img src={skooltg} alt="" className='w-32 lg:w-52' />
+                </a>
+                <a href="" target="_blank" rel="noopener noreferrer">
+                    <img src={dexscreener} alt="" className='w-32 lg:w-52' />
+                </a>
             </div>
 
         </div>
