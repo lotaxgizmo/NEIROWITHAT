@@ -15,7 +15,7 @@ function Socials() {
                 <a href="https://x.com/neirowifhat_sol/" target="_blank" rel="noopener noreferrer">
                     <img src={skoolx} alt="" className='w-32 lg:w-52' />
                 </a>
-                <a href="https://t.me/neirowifhatcommunity" target="_blank" rel="noopener noreferrer">
+                <a href="https://t.me/neirowifhatportal" target="_blank" rel="noopener noreferrer">
                     <img src={skooltg} alt="" className='w-32 lg:w-52' />
                 </a>
                 <a href="" target="_blank" rel="noopener noreferrer">
