@@ -124,8 +124,10 @@ function Tokenomicsmobile() {
                 </div>
             </div>
 
-            <div className="w-full flex lg:hidden  items-center justify-center  ">
-                <img src={buybtn} alt="" className='mt-10' />
+            <div className="w-full flex lg:hidden  items-center justify-center  z-30">
+                <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=2sa7woytn8vv5bdy5sxngdiao3jbgwts2yfehvdguuaq&fixed=in&inputMint=2Sa7WoYtn8VV5bDY5SxngdiAo3jbGWts2YfEHvdgUUaQ&outputMint=sol" target="_blank" rel="noopener noreferrer">
+                    <img src={buybtn} alt="" className='mt-10' />
+                </a>
             </div>
         </div>
     )

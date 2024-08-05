@@ -18,7 +18,7 @@ function Socials() {
                 <a href="https://t.me/neirowifhatportal" target="_blank" rel="noopener noreferrer">
                     <img src={skooltg} alt="" className='w-32 lg:w-52' />
                 </a>
-                <a href="" target="_blank" rel="noopener noreferrer">
+                <a href="https://dexscreener.com/solana/coflhwsoxyeij57jtxrtse3qh5ohznkywm6yaj2wpwav" target="_blank" rel="noopener noreferrer">
                     <img src={dexscreener} alt="" className='w-32 lg:w-52' />
                 </a>
             </div>

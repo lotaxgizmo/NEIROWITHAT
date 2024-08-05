@@ -28,7 +28,9 @@ function Tokenomics() {
                         <p className='text-2xl rotate-12'>MINT DISABLED</p>
                     </div>
                 </div>
-                <img src={buybtn33} alt="" className=' w-[177px] lg:w-auto mt-[-50px]' />
+                <a className='z-30' href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=2sa7woytn8vv5bdy5sxngdiao3jbgwts2yfehvdguuaq&fixed=in&inputMint=2Sa7WoYtn8VV5bDY5SxngdiAo3jbGWts2YfEHvdgUUaQ&outputMint=sol" target="_blank" rel="noopener noreferrer">
+                    <img src={buybtn33} alt="" className=' w-[177px] lg:w-auto mt-[-50px]' />
+                </a>
             </div>
         </div>
     )
