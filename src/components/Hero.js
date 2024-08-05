@@ -30,12 +30,13 @@ function Hero() {
 
                 </div>
 
-                <div className="lg:w-1/3 btns flex flex-row lg:flex-col  z-10">
-                    <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=2sa7woytn8vv5bdy5sxngdiao3jbgwts2yfehvdguuaq&fixed=in" target="_blank" rel="noopener noreferrer">
+                <div className="z-30 lg:w-1/3 btns flex flex-row lg:flex-col   ">
+                    <a className="z-30" href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=2sa7woytn8vv5bdy5sxngdiao3jbgwts2yfehvdguuaq&fixed=in" target="_blank" rel="noopener noreferrer">
                         <img src={buybtn} alt="" className=' w-[177px] lg:w-auto' />
                     </a>
-                    <a href="https://dexscreener.com/solana/coflhwsoxyeij57jtxrtse3qh5ohznkywm6yaj2wpwav" target="_blank" rel="noopener noreferrer"></a>
-                    <img src={dexbtn} alt="" className=' w-[177px] lg:w-auto' />
+                    <a className="z-30" href="https://dexscreener.com/solana/coflhwsoxyeij57jtxrtse3qh5ohznkywm6yaj2wpwav" target="_blank" rel="noopener noreferrer">
+                        <img src={dexbtn} alt="" className=' w-[177px] lg:w-auto' />
+                    </a>
                 </div>
 
                 <div className="lg:w-1/3 writings hidden lg:flex flex-col pl-10 z-10">
